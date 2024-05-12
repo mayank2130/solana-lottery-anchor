@@ -10,7 +10,7 @@ This repository contains the source code for a decentralized lottery application
 - **Efficient:** Built on Solana, the lottery app benefits from its high throughput and low transaction fees.
 
 
-<img src="front.png" alt="Alt Text"  height="500" width="700">
+<img src="front.png" alt="Alt Text"  height="500" width="900">
 
 
 ## Getting Started
