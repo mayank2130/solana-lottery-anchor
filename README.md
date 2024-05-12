@@ -9,6 +9,10 @@ This repository contains the source code for a decentralized lottery application
 - **Trustless:** Users can participate in the lottery without relying on a central authority, thanks to smart contracts.
 - **Efficient:** Built on Solana, the lottery app benefits from its high throughput and low transaction fees.
 
+
+<img src="front.png" alt="Alt Text"  height="100" width="200">
+
+
 ## Getting Started
 To get started with the lottery app, follow these steps:
 
